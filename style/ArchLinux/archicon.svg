@@ -1,1 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" version="1"><path d="M600 0c-53.416 130.962-85.671 216.74-145.143 343.81 36.464 38.651 81.22 83.449 153.905 134.285-78.145-32.156-131.403-64.213-171.238-97.714C361.41 539.2 241.989 765.194 0 1200c190.161-109.784 337.665-177.397 475.048-203.238-5.895-25.367-9.18-52.896-8.953-81.524l.19-5.905C469.305 787.48 532.72 693.638 607.81 700c75.089 6.362 133.494 110.528 130.476 232.381-.568 22.916-3.105 44.885-7.62 65.333C866.528 1024.325 1012.462 1091.73 1200 1200c-36.995-68.111-70.18-129.335-101.714-187.81-49.672-38.499-101.365-88.613-207.048-142.857 72.64 18.875 124.793 40.612 165.333 64.953C735.952 337.348 709.948 258.016 600 0z" fill="#1793d1" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65px"
+   viewBox="0 0 65 65"
+   version="1.1"
+   height="65px"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Archlinux-icon-crystal-64.svg"
+   inkscape:export-filename="/home/rivi/Downloads/Archlinux-icon-crystal-64.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="681"
+     inkscape:window-height="743"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="11.523192"
+     inkscape:cy="40.66086"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="lg"
+       y1="26.924%"
+       x2="28.129%"
+       x1="54.638%"
+       y2="79.519%">
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#fff"
+         stop-opacity=".27451"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#e9e8e7;fill-opacity:1"
+     d="M 32.253906 0.20898438 C 29.404906 7.1932844 27.674906 11.769875 24.503906 18.546875 C 26.447906 20.607875 28.837844 22.997984 32.714844 25.708984 C 28.546844 23.993984 25.704078 22.277234 23.580078 20.490234 C 22.564047 22.610408 21.404526 24.958106 20.033203 27.646484 C 18.504258 30.643871 16.619888 34.223813 14.474609 38.238281 C 22.572722 33.679941 31.573431 27.072425 47.398438 32.660156 C 38.757196 16.01541 36.813965 10.911084 32.253906 0.20898438 z "
+     id="path11" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#d4213d;fill-opacity:1"
+     d="M 36.9136,30.242156 C 27.27746,29.926564 20.768038,34.392708 14.675318,37.822234 11.057952,44.591428 6.4339188,53.005735 0.36086513,63.917937 10.500865,58.063937 18.361037,54.452187 25.687037,53.074187 c -0.314,-1.351 -0.48075,-2.81875 -0.46875,-4.34375 l 0.0078,-0.320312 c 0.161,-6.498 3.543828,-11.493297 7.548828,-11.154297 4.004,0.339 7.121937,5.883813 6.960937,12.382813 -0.031,1.223999 -0.173062,2.400187 -0.414062,3.492187 7.247,1.418 15.034062,5.011109 25.039062,10.787109 -1.973,-3.632 -3.741828,-6.904437 -5.423828,-10.023437 -2.649,-2.053 -5.410875,-4.724188 -11.046875,-7.617188 3.874,1.007 6.6505,2.17075 8.8125,3.46875 C 52.902955,42.671335 49.832944,37.309814 47.363892,32.553928 43.445033,31.170199 40.085295,30.346032 36.9136,30.242156 Z"
+     id="path11-7"
+     sodipodi:nodetypes="scccccccccccccs" />
+</svg>
