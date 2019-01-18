@@ -10,7 +10,7 @@ if (!defined('PUN_ROOT'))
 	exit('The constant PUN_ROOT must be defined and point to a valid FluxBB installation root directory.');
 
 // Define the version and database revision that this code was written for
-define('FORUM_VERSION', '1.5.10');
+define('FORUM_VERSION', '1.5.11');
 
 define('FORUM_DB_REVISION', 21);
 define('FORUM_SI_REVISION', 2);
@@ -66,9 +66,11 @@ $flux_addons = new flux_addon_manager();
 // Record the start time (will be used to calculate the generation time for the page)
 $pun_start = get_microtime();
 
+// Seed the random number generator for systems where this does not happen automatically
+mt_srand();
+
 // Make sure PHP reports all errors except E_NOTICE. FluxBB supports E_ALL, but a lot of scripts it may interact with, do not
-// We set this in php.ini
-//error_reporting(E_ALL ^ E_NOTICE);
+error_reporting(E_ALL ^ E_NOTICE);
 
 // Force POSIX locale (to prevent functions such as strtolower() from messing up UTF-8 strings)
 setlocale(LC_CTYPE, 'C');
